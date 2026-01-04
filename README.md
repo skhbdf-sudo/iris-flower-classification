@@ -1,9 +1,18 @@
-Key Features
-Uses the built-in Iris dataset from Scikit-learn
-Feature scaling with StandardScaler for better model performance
-Classification using Logistic Regression
-Train–test data split for unbiased evaluation
-Model evaluation using:
-Accuracy Score
-Confusion Matrix
-Classification Report
+Dataset
+  Source: Scikit-learn built-in Iris dataset
+  
+Features:
+  Sepal length
+  Sepal width
+  Petal length
+  Petal width
+  
+Target: Iris flower species
+
+Technologies Used
+ -Python
+ -NumPy
+ -Pandas
+ -Scikit-learn
+ -Matplotlib
+ -Seaborn
