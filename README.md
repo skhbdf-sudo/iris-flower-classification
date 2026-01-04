@@ -16,3 +16,6 @@ Technologies Used
  -Scikit-learn
  -Matplotlib
  -Seaborn
+
+Model Performance:
+The model performance is evaluated using standard classification metrics such as accuracy, precision, recall, and F1-score.
